@@ -1,5 +1,5 @@
 Download the dataset from : https://www.kaggle.com/datasets/princelv84/dogsvscats and save it as dogs_vs_cats.zip
-2 Prediction Images are provided in the repository, which migght be used.
+2 Prediction Images are provided in the repository, which might be used.
 
 METHOD-1 (Google Colab (Browser) based method, anyone can use, even on devices  without GPU):
 1) Open the Dog_Cat_Classify.ipynb directly or by using the given link: https://colab.research.google.com/drive/1qyaddKqRMsD8OxUXD-dTdXx9xU38NJp2?usp=sharing
