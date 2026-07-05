@@ -15,7 +15,7 @@ METHOD-1 (Google Colab (Browser) based method, anyone can use, even on devices  
 
 OR 
 
-METHOD-2 (Terminal based method, use VS Code or Anaconda, USe this method only if there is GPU in the device):
+METHOD-2 (Terminal based method, use VS Code or Anaconda, Use this method only if there is GPU in the device):
 1) Download Dog_Cat_Classify.py, Dog_Cat_Predict.py and dogs_vs_cats.zip in the same folder.
 2) Create a virtual environment using Python 3.10.19 or any other suitable version.
 3) In the virtual environment, install gthe packages like: tensorflow, matplotlib and numpy.
