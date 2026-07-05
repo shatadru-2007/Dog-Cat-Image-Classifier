@@ -1,4 +1,4 @@
-Download the dataset from : https://www.kaggle.com/datasets/princelv84/dogsvscats and save it as dogs_vs_cats.zip
+Download the dataset from : https://www.kaggle.com/datasets/princelv84/dogsvscats and save it as dogs_vs_cats.zip 
 2 Prediction Images are provided in the repository, which might be used.
 
 METHOD-1 (Google Colab (Browser) based method, anyone can use, even on devices  without GPU):
