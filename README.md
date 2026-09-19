@@ -16,9 +16,10 @@ METHOD-1 (Google Colab (Browser) based method, anyone can use, even on devices  
 OR 
 
 METHOD-2 (Terminal based method, use VS Code or Anaconda, Use this method only if there is GPU in the device):
-1) Download Dog_Cat_Classify.py, Dog_Cat_Predict.py and dogs_vs_cats.zip in the same folder.
-2) Create a virtual environment using Python 3.10.19 or any other suitable version.
-3) In the virtual environment, install the packages like: tensorflow, matplotlib and numpy.
-4) In the Dog_Cat_Classify.py file update the path for the dogs_vs_cats.zip.
-5) Run the Dog_Cat_Classify.py file. A file named Dog_Cat_Classify.keras gets saved in the same folder.
-6) Enter the path of the Dog_Cat_Classify.keras file and the path of the image to be predicted in the correct places in the Dog_Cat_Predict.py file. We get the prediction.
+1) Download Dog_Cat_Classify.py, Dog_Cat_Predict.py and dogs_vs_cats.zip in the same directory
+2) Extract the zip file in the same directory and place all its contents in a folder within the same directory.
+3) Create a virtual environment using any version of Python (3.10 or 3.11) which supports tensorflow.
+4) In the virtual environment, install the packages like: tensorflow, matplotlib and numpy.
+5) In the Dog_Cat_Classify.py file update the path for the training and testing datasets which are specifically labelled as train and test within the folder containing the contents of the zip file.
+6) Run the Dog_Cat_Classify.py file. A file named Dog_Cat_Classify.keras gets saved in the same directory.
+7) Enter the path of the Dog_Cat_Classify.keras file and the path of the image to be predicted in the correct places in the Dog_Cat_Predict.py file. We get the prediction in the CLI.
